@@ -1,0 +1,13 @@
+Bu video yazılım mühendisliği oryantasyon dersinin final sınavı kapsamında çekilmiştir
+içerisinde 10 adet kolay-orta düzey proje bulunmaktadır
+proje başlıkları
+1-dizi oluşturma
+2-dizi elemanlarını sıralama
+3-fibonacci dizisi yazdırma
+4-matris in elemanlarının ortalaması ve ortalama altı ve üstündeki eleman sayısı
+5-switch case günleri yazdırma
+6-şifre doğru girilene kadar kullanıcıdan sayı alma
+7-string dizisini substring kullanarak iki farklı diziyee atama
+8-tas kağıt makas oyunu
+9-sonuç buldurma
+10-çevre alan
